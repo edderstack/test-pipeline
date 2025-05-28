@@ -1,3 +1,8 @@
+name: yamela
+
+on: 
+  push
+
 build-job:
   stage: build
   script:
