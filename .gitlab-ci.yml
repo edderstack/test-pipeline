@@ -1,6 +1,7 @@
 name: yams
 
-on: push
+on: 
+	push
 
 build-job:
   stage: build
