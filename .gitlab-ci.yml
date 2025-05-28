@@ -1,6 +1,6 @@
-workflow:
-  rules:
-    - if: $CI_COMMIT_BRANCH
+name: yams
+
+on: push
 
 build-job:
   stage: build
