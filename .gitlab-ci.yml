@@ -1,7 +1,7 @@
 name: yams
 
 on: 
-	push
+  push
 
 build-job:
   stage: build
